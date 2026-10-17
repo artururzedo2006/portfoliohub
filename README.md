@@ -42,10 +42,10 @@ Após a publicação, o site estará disponível pelo GitHub Pages.
 ## Versionamento
 
 - Versão 1.0: criação da estrutura inicial do portfólio.
-- Versão 1.1: melhorias no conteúdo e no visual.
+- Versão 1.1: inclusão da seção de aprendizados e melhorias na documentação.
 
 ## Autor
 
-**[Artur Urzedo]**
+**Artur Urzedo**
 
-GitHub: [INSIRA A URL DO SEU PERFIL]
+GitHub: [(https://github.com/artururzedo2006)]
